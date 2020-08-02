@@ -1,4 +1,5 @@
-![hanqizheng](./Frame%201.svg)
+
+### 茫茫人海，脚踏实地，简单快乐，努力生活。这些很难，但要追逐。
 
 <!--
 **hanqizheng/hanqizheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
