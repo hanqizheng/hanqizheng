@@ -1,4 +1,4 @@
-Could the life can be any better?
+Could life be any better?
 
 <!--
 **hanqizheng/hanqizheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
